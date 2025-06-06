@@ -5,53 +5,21 @@ This is my macropad!
 
 # Before We Begin
 
-🐄 Cow vs. CAD: An Eid ul Adha Special
-(A Macro Pad Built on Sacrifice and Sudden Realizations)
+| Feature                | Fusion 360 CAD                        | Cow                                            | Reality Check                                                  |
+| ---------------------- | ------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------- |
+| **Shape**              | Perfectly parametric, clean curves    | Curves? More like squiggles & wobbles          | Fusion 360 tries to model squiggles; cow just wobbles for fun! |
+| **Behavior**           | Obeys every command, no complaints    | Randomly moos, eats grass, naps a lot          | Cow wins in chill vibes; Fusion 360 wins in “do what I say.”   |
+| **Flexibility**        | Can stretch or compress with a click  | Stretches? Only when someone calls dinner time | CAD models obey physics; cows obey hunger.                     |
+| **Sound**              | Silent unless you count your keyboard | Loud moos, occasional tail swishes             | Sorry Fusion 360, cows have better volume control.             |
+| **Energy consumption** | Requires electricity & caffeine       | Eats grass, naps, and still looks majestic     | Cow is the original eco-friendly machine.                      |
+| **Rotary involvement** | Rotates perfectly on digital axes     | Tail rotates randomly, usually to swat flies   | Cow’s rotary = natural antenna; CAD rotary = pure precision.   |
 
-python
-while not fusion_360_sketch_working:
-    if cow_is_ready:
-        celebrate_eid()  # Mandatory
-    else:
-        panic_optimize_macro_pad_code()  # Also mandatory
+Stretch Goals (because why not?)
+Design a cow-shaped Eid lantern with Fusion 360 — because everyone needs a glowing moo at night.
 
-  📜 README.md: Pre-Eid Chaos Edition
-🔴🟢🟡 Project Status Lights
-🟢 Cow Procurement: Success! (Bargaining skills: legendary)
+Create a rotary encoder that controls the volume of a virtual cow’s moo. Extra points for adding echo! 🐄🎶
 
-🟡 Macro Pad: "It compiles... sometimes"
-
-🔴 Fusion 360 Progress: "Why does ‘Extrude’ hate me?"
-
-📊 Cow vs. CAD: The Ultimate Comparison
-Category	The Cow 🐄	Fusion 360 🖥️
-Cost	Significant investment	"Free" (but costs sanity)
-Documentation	Centuries of Islamic tradition	"YouTube tutorials from 2016"
-Error Messages	"Moo?" (understandable)	"Sketch is over-constrained" (???)
-Output	Nutritious meat	Existential dread
-My Skill Level	Can identify legs/head	Can draw rectangles (sometimes)
-🎛️ Rotary Encoder: Life Advice Mode
-(Troubleshooting tips disguised as wisdom)
-
-"If it jitters, you’re turning too fast – just like life."
-
-Fix: Add KC.MACRO_SLEEP_MS(50) to your decisions.
-
-"Clockwise for volume, counter-clockwise for regrets."
-
-Default mapping: VOLU/VOLD, but CTRL+Z is acceptable too.
-
-"Press to pause – works on music AND existential crises."
-
-🎯 Pre-Eid To-Do List
-🕋 Morning: Eid prayers + qurbani
-
-🍖 Afternoon: Meat distribution + family time
-
-⌨️ Evening: Attempt to extrude one (1) sketch before iftar
-
-Stretch goal: Make the OLED display show "Eid Mubarak!"
-
+Animate a Fusion 360 model that “stretches” like a cow trying to reach the last bite of grass.
 
 # Schematic
 
@@ -77,4 +45,8 @@ Used KMK but have not decided yet.
 1 EC11 Rotary encoder
 
 1 0.91 inch OLED display
+
+Eid Mubarak! 🎉
+May your Eid be joyful, your cows happy, and your rotary encoders never jam!
+
 
