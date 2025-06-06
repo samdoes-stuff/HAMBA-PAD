@@ -5,6 +5,23 @@ This is my macropad!
 
 # Before We Begin
 
+🐄 Because Tomorrow is Eid... 🎉
+I couldn't just commit code — I had to commit to a cow.
+
+While you're deploying apps, I'm deploying livestock.
+While you're pushing to main, I'm pushing hay to a very judgmental bovine.
+
+Yes, tomorrow is Eid, and I bought a cow.
+And not just any cow — this one moo-ved my heart and inspired my repo structure.
+
+Now featuring:
+
+CAD files shaped like beefy dreams 🛠️
+
+Rotary encoders spinning faster than uncles after 3 cups of Eid tea ☕
+
+More moo than you can git pull 🐄
+
 | Feature                | Fusion 360 CAD                        | Cow                                            | Reality Check                                                  |
 | ---------------------- | ------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------- |
 | **Shape**              | Perfectly parametric, clean curves    | Curves? More like squiggles & wobbles          | Fusion 360 tries to model squiggles; cow just wobbles for fun! |
