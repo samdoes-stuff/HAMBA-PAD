@@ -46,9 +46,10 @@ Animate a Fusion 360 model that “stretches” like a cow trying to reach the l
 # PCB
 
 
-![Screenshot 2025-06-09 132622](https://github.com/user-attachments/assets/991b01e5-3147-44a2-b8a8-934748cb108c)
+![image](https://github.com/user-attachments/assets/8ea89b3f-7f2f-44d5-ad39-f4f68cadf9a9)
+![image](https://github.com/user-attachments/assets/24e071f7-cb65-4550-b312-48df8a9046e2)
 
-![image](https://github.com/user-attachments/assets/ba8e5b77-4f3b-4a74-86cd-67c89eb38a3d)
+
 
 
 # CAD
