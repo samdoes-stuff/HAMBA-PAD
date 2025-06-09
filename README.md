@@ -39,17 +39,24 @@ Create a rotary encoder that controls the volume of a virtual cow’s moo. Extra
 Animate a Fusion 360 model that “stretches” like a cow trying to reach the last bite of grass.
 
 # Schematic
+![image](https://github.com/user-attachments/assets/1ebf0567-b441-43e3-82ed-c0cd360a5299)
 
-![Screenshot 2025-06-06 184736](https://github.com/user-attachments/assets/e49e8ef3-ae7d-47f0-9dd1-d73309c9e7b9)
 
 
 # PCB
 
-![Screenshot 2025-06-06 192755](https://github.com/user-attachments/assets/45a217e6-0bee-4643-a977-a90c6a56a93c)
 
-![Screenshot 2025-06-06 192851](https://github.com/user-attachments/assets/9de5bcf1-1181-452d-bbc1-d43c73a09f3e)
+![Screenshot 2025-06-09 132622](https://github.com/user-attachments/assets/991b01e5-3147-44a2-b8a8-934748cb108c)
+
+![image](https://github.com/user-attachments/assets/ba8e5b77-4f3b-4a74-86cd-67c89eb38a3d)
+
 
 # CAD
+
+![image](https://github.com/user-attachments/assets/67e8b183-392e-4df9-a613-1e0cdc9795c3)
+![Screenshot 2025-06-09 135207](https://github.com/user-attachments/assets/be146c0f-6f0d-4a5a-a7d5-b18517e1e0a7)
+
+
 
 # Firmware
 Used KMK but have not decided yet.
